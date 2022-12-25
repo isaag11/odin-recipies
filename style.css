@@ -1,0 +1,19 @@
+.title {
+    font-size: 32px;
+    color: rgb(75, 75, 219)
+}
+
+body {
+    background-color: rgb(255, 184, 196);
+}
+
+.p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(9, 77, 9);
+    text-align: center;
+}
+
+a {
+    text-align: center;
+    color: hotpink;
+}
