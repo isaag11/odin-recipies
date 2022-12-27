@@ -1,7 +1,12 @@
+.title,
+.ye,
+a {
+    text-align: center;
+}
+
 .title {
     font-size: 32px;
     color: rgb(75, 75, 219);
-    text-align: center;
 }
 
 body {
@@ -11,10 +16,8 @@ body {
 .ye {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(9, 77, 9);
-    text-align: center;
 }
 
 a {
-    text-align: center;
     color: rgb(97, 2, 50);
 }
