@@ -1,6 +1,6 @@
 .title,
 .ye,
-a {
+.btn {
     text-align: center;
 }
 
@@ -18,6 +18,14 @@ body {
     color: rgb(9, 77, 9);
 }
 
-a {
+.btn {
+    display: inline-block;
     color: rgb(97, 2, 50);
+    background-color: lightblue;
+    padding: 25px,75px;
+}
+
+.btn:hover {
+    background: darkblue;
+    color:white;
 }
