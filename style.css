@@ -22,7 +22,9 @@ body {
     display: inline-block;
     color: rgb(97, 2, 50);
     background-color: lightblue;
-    padding: 25px,75px;
+    padding: 50px,100px;
+    margin: 10px,100px;
+
 }
 
 .btn:hover {
