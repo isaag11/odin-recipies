@@ -31,3 +31,8 @@ body {
     background: darkblue;
     color:white;
 }
+
+.steps {
+    border-width: 5px;
+    border-color: blueviolet;
+}
