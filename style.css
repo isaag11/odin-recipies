@@ -16,15 +16,18 @@ body {
 .ye {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(9, 77, 9);
-    margin-bottom: 100px;
+    font-weight: bold;
+    margin-bottom: 85px;
+    margin-top: 40px;
 }
 
 .btn {
-    display: inline-block;
+    flex: 1;
     color: rgb(97, 2, 50);
     background-color: lightblue;
-    padding: 50px 100px;
-
+    padding: 50px 10px;
+    margin: 0px 6px;
+    font-family: system-ui,'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
 .btn:hover {
@@ -33,6 +36,11 @@ body {
 }
 
 .steps {
-    border-width: 5px;
-    border-color: blueviolet;
+    border: 5px double rgb(144, 107, 245);
+    padding: 30px;
+    margin: 20px;
+}
+
+.container {
+    display:flex;
 }
